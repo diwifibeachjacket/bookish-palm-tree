@@ -1,0 +1,51 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\distro-1.9.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/distro-1.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/distro-1.9.0.dist-info/LICENSE",
+    "Lib/site-packages/distro-1.9.0.dist-info/METADATA",
+    "Lib/site-packages/distro-1.9.0.dist-info/RECORD",
+    "Lib/site-packages/distro-1.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/distro-1.9.0.dist-info/WHEEL",
+    "Lib/site-packages/distro-1.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/distro-1.9.0.dist-info/entry_points.txt",
+    "Lib/site-packages/distro-1.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/distro/__init__.py",
+    "Lib/site-packages/distro/__main__.py",
+    "Lib/site-packages/distro/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/distro/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/distro/__pycache__/distro.cpython-312.pyc",
+    "Lib/site-packages/distro/distro.py",
+    "Lib/site-packages/distro/py.typed",
+    "Scripts/distro-script.py",
+    "Scripts/distro.exe",
+    ".nonadmin"
+  ],
+  "fn": "distro-1.9.0-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\distro-1.9.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "87a1545b00f0734f53e48dc7d7a392e5",
+  "name": "distro",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\distro-1.9.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::distro==1.9.0=py312haa95532_0[md5=87a1545b00f0734f53e48dc7d7a392e5]",
+  "sha256": "c9f435c4211b397df43be79c7feeb46279b99583e1dd44a68b505eeeb9a0622c",
+  "size": 62437,
+  "subdir": "win-64",
+  "timestamp": 1714488598000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/distro-1.9.0-py312haa95532_0.conda",
+  "version": "1.9.0"
+}
